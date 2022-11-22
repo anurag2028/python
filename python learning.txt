@@ -1,0 +1,71 @@
+1 Python Core
+
+IDE Installation For Python
+https://youtu.be/esVUeSiQfCU
+
+Python Basics
+https://youtu.be/52PaXG6NcS8
+
+2 String Objects and Collections
+
+Strings and Lists
+https://youtu.be/6asu-zLsIjg
+
+3 Tuples, Set, Dictionaries & Functions
+
+Tuples, Sets, Dictionary Object Basics, Dictionary
+https://youtu.be/B4FmI8T4MiM
+
+Functions
+https://youtu.be/MCuMzSfriKg
+
+4 OOPs Concepts & Working with Files
+
+OOPS Basic Concepts & Working with Files
+https://youtu.be/wHJorEzX3Pg
+
+5 Modules, Exception Handling & Database Programming
+
+Exceptions Handling
+https://youtu.be/11eXOjpcPMM
+
+Working with Databases
+https://youtu.be/xaYuw3wGDhA
+
+6 Flask and API's
+
+Flask Application Development
+https://youtu.be/SIZl0LRqNn0
+
+7 Data Ananlysis
+
+Pandas intro
+https://youtu.be/SqOIC-KK0I0
+
+Descriptive analysis
+https://youtu.be/XWpG4dzk1KU
+
+Pandas Input-Output
+https://youtu.be/pip7sXFeMEU
+
+Pandas Manipulation
+https://youtu.be/as9EEqDxP9Q
+
+Pandas Groupby
+https://youtu.be/73zhF1ix-20
+
+8 Numpy
+
+Numpy data manipulation part1
+https://youtu.be/rr8TGha9wPc
+
+Numpy data manipulation part2
+https://youtu.be/7Qb-YKbLzDk
+
+9 Visualization
+
+Matplot lib
+https://youtu.be/eRYEOR9BO-c
+
+Seaborn, Plotly, Cuflinks
+https://youtu.be/hRiZxvd2wQI
