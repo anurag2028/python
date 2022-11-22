@@ -69,3 +69,8 @@ https://youtu.be/eRYEOR9BO-c
 
 Seaborn, Plotly, Cuflinks
 https://youtu.be/hRiZxvd2wQI
+
+
+
+
+git unset user ---- git config --global --unset credential.helper
